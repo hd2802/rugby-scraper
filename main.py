@@ -56,10 +56,19 @@ def urc_data():
     with open('urc.json', 'w') as file:
         file.write(json.dumps(data, indent=4))
 
+def prem_database():
+    with open("prem.json") as file:
+        data = json.load(file)
+    
+    for data_piece in data:
+        x = requests.post("http://localhost:3003/api/players", json=data_piece, headers={'Content-Type': "application/json"})
+        print('added player')
+
 def main():
-    prem_data()
-    urc_data()
+    #prem_data()
+    #urc_data()
     #test()
+    prem_database()
 
 
 if __name__ == "__main__":
