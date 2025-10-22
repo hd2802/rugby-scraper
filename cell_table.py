@@ -59,12 +59,12 @@ def get_data(url):
                             else:
                                 continue
                             obj["position"] = str(cols[1].find('a').text.strip())
-                            obj['team'] = team.strip()
+                            obj['club'] = team.strip()
                             price = get_player_price(first_name, last_name)
                             if price == 0:
                                 continue
                             else:
-                                obj['price'] = price
+                                obj['value'] = price
                                 #print(obj)
                                 player_data.append(obj)
                             

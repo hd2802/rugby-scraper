@@ -1,5 +1,6 @@
 import cell_table
 import full_table
+import requests
 import json
 
 prem_urls = [ 
@@ -44,7 +45,7 @@ def prem_data():
         data.extend(cell_table.get_data(url))
     
     with open("prem.json", "w") as file:
-        file.write(json.dumps(data, indent=4)) 
+        file.write(json.dumps(data, indent=4))
     
 def urc_data():
     data = []
