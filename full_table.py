@@ -11,6 +11,16 @@ non_player = [
     "Centres", "Fullbacks", "^", "Bold", "Wings", "Loose forwards", "Wingers"
 ]
 
+def get_player_price(first_name, last_name):
+    with open("player_data.txt") as file:
+        string = file.read()
+        lines = string.splitlines()
+        name = last_name + ", " + first_name[0]
+        try:
+            return ((lines[lines.index(name)+1].split("$"))[1].split('m')[0])
+        except:
+            return 0
+
 def map_position(pos): 
     if pos == 'Props':
         return "Prop"
@@ -51,10 +61,21 @@ def get_data(url):
                 obj = {}
                 name = str(item.text).strip()
                 if len(name) != 0:
-                    obj["first_name"] = name.split()[0]
-                    obj["last_name"] = " ".join(name.split()[1:]).replace('(c)', '').replace('[c]','').replace('*','')
+                    first_name = name.split()[0]
+                    last_name = " ".join(name.split()[1:]).replace('(c)', '').replace('[c]','').replace('*','')
+                    if len(first_name) > 3 and len(last_name) > 3:
+                        obj["first_name"] = first_name
+                        obj["last_name"] = last_name
+                    else:
+                        continue
                     obj['position'] = position.strip()
                     obj['team'] = team.strip()
-                    player_data.append(obj)
+                    price = get_player_price(first_name, last_name)
+                    if price == 0:
+                        continue
+                    else:
+                        obj['price'] = price
+                        print(obj)
+                        player_data.append(obj)
     
     return player_data

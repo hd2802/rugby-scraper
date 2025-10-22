@@ -3,1902 +3,2051 @@
         "first_name": "Curtis",
         "last_name": "Langdon",
         "position": "Hooker",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "4.0"
     },
     {
         "first_name": "Robbie",
         "last_name": "Smith",
         "position": "Hooker",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.1"
     },
     {
         "first_name": "Henry",
         "last_name": "Walker",
         "position": "Hooker",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.1"
     },
     {
         "first_name": "Craig",
         "last_name": "Wright",
         "position": "Hooker",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.0"
     },
     {
         "first_name": "Trevor",
         "last_name": "Davison",
         "position": "Prop",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.4"
     },
     {
         "first_name": "Danilo",
         "last_name": "Fischetti",
         "position": "Prop",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.5"
     },
     {
         "first_name": "Luke",
         "last_name": "Green",
         "position": "Prop",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "1.0"
     },
     {
         "first_name": "Emmanuel",
         "last_name": "Iyogun",
         "position": "Prop",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.0"
     },
     {
         "first_name": "Cleopas",
         "last_name": "Kundiona",
         "position": "Prop",
-        "team": "Northampton Saints"
-    },
-    {
-        "first_name": "Elliot",
-        "last_name": "Millar Mills",
-        "position": "Prop",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "1.0"
     },
     {
         "first_name": "Emeka",
         "last_name": "Atuanya",
         "position": "Lock",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.0"
     },
     {
         "first_name": "Alex",
         "last_name": "Coles",
         "position": "Lock",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "4.6"
     },
     {
         "first_name": "Chunya",
         "last_name": "Munga",
         "position": "Lock",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "3.0"
     },
     {
         "first_name": "Archie",
         "last_name": "Benson",
         "position": "Back row",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "3.0"
     },
     {
         "first_name": "Callum",
         "last_name": "Chick",
         "position": "Back row",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "5.3"
     },
     {
         "first_name": "Josh",
         "last_name": "Kemeny",
         "position": "Back row",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "6.1"
     },
     {
         "first_name": "Henry",
         "last_name": "Pollock",
         "position": "Back row",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "8.2"
     },
     {
         "first_name": "Angus",
         "last_name": "Scott-Young",
         "position": "Back row",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "3.4"
     },
     {
         "first_name": "Archie",
         "last_name": "McParland",
         "position": "Scrum-half",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.1"
     },
     {
         "first_name": "Alex",
         "last_name": "Mitchell",
         "position": "Scrum-half",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "5.0"
     },
     {
         "first_name": "Anthony",
         "last_name": "Belleau",
         "position": "Fly-half",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "5.1"
     },
     {
         "first_name": "Fraser",
         "last_name": "Dingwall",
         "position": "Centre",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "5.2"
     },
     {
         "first_name": "Rory",
         "last_name": "Hutchinson",
         "position": "Centre",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "4.5"
     },
     {
         "first_name": "Toby",
         "last_name": "Thame",
         "position": "Centre",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "2.0"
     },
     {
         "first_name": "Amena",
         "last_name": "Caqusau",
         "position": "Wing",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "4.0"
     },
     {
         "first_name": "Tommy",
         "last_name": "Freeman",
         "position": "Wing",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "10.3"
     },
     {
         "first_name": "James",
         "last_name": "Martin",
         "position": "Wing",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "4.0"
     },
     {
         "first_name": "James",
         "last_name": "Ramm",
         "position": "Wing",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "3.6"
     },
     {
         "first_name": "Ollie",
         "last_name": "Sleightholme",
         "position": "Wing",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "7.5"
     },
     {
         "first_name": "George",
         "last_name": "Furbank",
         "position": "Fullback",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "7.5"
     },
     {
         "first_name": "George",
         "last_name": "Hendy",
         "position": "Fullback",
-        "team": "Northampton Saints"
+        "team": "Northampton Saints",
+        "price": "6.9"
     },
     {
         "first_name": "Jasper",
         "last_name": "Spandler",
         "position": "Hooker",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Thomas",
         "last_name": "du Toit",
         "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.1"
     },
     {
         "first_name": "Archie",
         "last_name": "Griffin",
         "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "1.0"
     },
     {
         "first_name": "Beno",
         "last_name": "Obano",
         "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.8"
     },
     {
         "first_name": "Will",
         "last_name": "Stuart",
         "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.5"
     },
     {
         "first_name": "Mikey",
         "last_name": "Summerfield",
         "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "1.0"
     },
     {
         "first_name": "Francois",
         "last_name": "van Wyk",
         "position": "Prop",
-        "team": "Bath"
-    },
-    {
-        "first_name": "Kieran",
-        "last_name": "Verden",
-        "position": "Prop",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Charlie",
         "last_name": "Ewels",
         "position": "Lock",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.8"
     },
     {
         "first_name": "Ross",
         "last_name": "Molony",
         "position": "Lock",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.5"
     },
     {
         "first_name": "Ewan",
         "last_name": "Richards",
         "position": "Lock",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Quinn",
         "last_name": "Roux",
         "position": "Lock",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.9"
     },
     {
         "first_name": "Alfie",
         "last_name": "Barbeary",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "6.6"
     },
     {
         "first_name": "Josh",
         "last_name": "Bayliss",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.0"
     },
     {
         "first_name": "Jaco",
         "last_name": "Coetzee",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.0"
     },
     {
         "first_name": "Thompson",
         "last_name": "Cowan",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.0"
     },
     {
         "first_name": "Miles",
         "last_name": "Reid",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.5"
     },
     {
         "first_name": "Ethan",
         "last_name": "Staddon",
         "position": "Back row",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.0"
     },
     {
         "first_name": "Neil",
         "last_name": "le Roux",
         "position": "Scrum-half",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Bernard",
         "last_name": "van der Linde",
         "position": "Scrum-half",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Ciaran",
         "last_name": "Donoghue",
         "position": "Fly-half",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "5.0"
     },
     {
         "first_name": "Finn",
         "last_name": "Russell",
         "position": "Fly-half",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "10.2"
     },
     {
         "first_name": "Will",
         "last_name": "Butt",
         "position": "Centre",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.0"
     },
     {
         "first_name": "Chris",
         "last_name": "Harris",
         "position": "Centre",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.0"
     },
     {
         "first_name": "Louie",
         "last_name": "Hennessey",
         "position": "Centre",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "2.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Lawrence",
         "position": "Centre",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "7.4"
     },
     {
         "first_name": "Cameron",
         "last_name": "Redpath",
         "position": "Centre",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "4.9"
     },
     {
         "first_name": "Henry",
         "last_name": "Arundell",
         "position": "Wing",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "8.3"
     },
     {
         "first_name": "Will",
         "last_name": "Muir",
         "position": "Wing",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "8.5"
     },
     {
         "first_name": "Santiago",
         "last_name": "Carreras",
         "position": "Fullback",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "9.5"
     },
     {
         "first_name": "Austin",
         "last_name": "Emens",
         "position": "Fullback",
-        "team": "Bath"
+        "team": "Bath",
+        "price": "3.0"
     },
     {
         "first_name": "Will",
         "last_name": "Capon",
         "position": "Hooker",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "2.0"
     },
     {
         "first_name": "Gabriel",
         "last_name": "Oghre",
         "position": "Hooker",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.6"
     },
     {
         "first_name": "Harry",
         "last_name": "Thacker",
         "position": "Hooker",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.5"
     },
     {
         "first_name": "Lovejoy",
         "last_name": "Chawatama",
         "position": "Prop",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "1.0"
     },
     {
         "first_name": "Ellis",
         "last_name": "Genge",
         "position": "Prop",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.2"
     },
     {
         "first_name": "George",
         "last_name": "Kloska",
         "position": "Prop",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "1.2"
     },
     {
         "first_name": "Jake",
         "last_name": "Woolmore",
         "position": "Prop",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "1.1"
     },
     {
         "first_name": "Steele",
         "last_name": "Barker",
         "position": "Lock",
-        "team": "Bristol Bears"
-    },
-    {
-        "first_name": "Will",
-        "last_name": "Ramply",
-        "position": "Lock",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "2.0"
     },
     {
         "first_name": "Pedro",
         "last_name": "Rubiolo",
         "position": "Lock",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "2.5"
     },
     {
         "first_name": "Kofi",
         "last_name": "Cripps",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.0"
     },
     {
         "first_name": "Benjam\u00edn",
         "last_name": "Grondona",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.0"
     },
     {
         "first_name": "Santiago",
         "last_name": "Grondona",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Luka",
         "last_name": "Ivanishvili",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.0"
     },
     {
         "first_name": "Fitz",
         "last_name": "Harding",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "6.2"
     },
     {
         "first_name": "Steven",
         "last_name": "Luatua",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.9"
     },
     {
         "first_name": "Viliame",
         "last_name": "Mata",
         "position": "Back row",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "6.3"
     },
     {
         "first_name": "Kieran",
         "last_name": "Marmion",
         "position": "Scrum-half",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.4"
     },
     {
         "first_name": "Harry",
         "last_name": "Randall",
         "position": "Scrum-half",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.8"
     },
     {
         "first_name": "Benhard",
         "last_name": "Janse van Rensburg",
         "position": "Centre",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "5.7"
     },
     {
         "first_name": "Kalaveti",
         "last_name": "Ravouvou",
         "position": "Centre",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "7.3"
     },
     {
         "first_name": "James",
         "last_name": "Williams",
         "position": "Centre",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "3.0"
     },
     {
         "first_name": "Mat\u00edas",
         "last_name": "Moroni",
         "position": "Centre",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Jack",
         "last_name": "Bates",
         "position": "Wing",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Gabriel",
         "last_name": "Ibitoye",
         "position": "Wing",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "8.8"
     },
     {
         "first_name": "Louis",
         "last_name": "Rees-Zammit",
         "position": "Wing",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "9.5"
     },
     {
         "first_name": "Aidan",
         "last_name": "Boshoff",
         "position": "Wing",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Josh",
         "last_name": "Carrington",
         "position": "Fullback",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Benjam\u00edn",
         "last_name": "Elizalde",
         "position": "Fullback",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.1"
     },
     {
         "first_name": "Noah",
         "last_name": "Heward",
         "position": "Fullback",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "4.0"
     },
     {
         "first_name": "Rich",
         "last_name": "Lane",
         "position": "Fullback",
-        "team": "Bristol Bears"
+        "team": "Bristol Bears",
+        "price": "5.0"
     },
     {
         "first_name": "Joseph",
         "last_name": "Dweba",
         "position": "Hooker",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.9"
     },
     {
         "first_name": "Julian",
         "last_name": "Heaven",
         "position": "Hooker",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.0"
     },
     {
         "first_name": "Jack",
         "last_name": "Yeandle",
         "position": "Hooker",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.1"
     },
     {
         "first_name": "Kwenzo",
         "last_name": "Blose",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Ethan",
         "last_name": "Burger",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Will",
         "last_name": "Goodrick-Clarke",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Josh",
         "last_name": "Iosefa-Scott",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Khwezi",
         "last_name": "Mona",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Ehren",
         "last_name": "Painter",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Jimmy",
         "last_name": "Roots",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Bachuki",
         "last_name": "Tchumbadze",
         "position": "Prop",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.0"
     },
     {
         "first_name": "Dafydd",
         "last_name": "Jenkins",
         "position": "Lock",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.7"
     },
     {
         "first_name": "Lewis",
         "last_name": "Pearson",
         "position": "Lock",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.0"
     },
     {
         "first_name": "Andrea",
         "last_name": "Zambonin",
         "position": "Lock",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.0"
     },
     {
         "first_name": "Richard",
         "last_name": "Capstick",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.0"
     },
     {
         "first_name": "Greg",
         "last_name": "Fisilau",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "4.1"
     },
     {
         "first_name": "Martin",
         "last_name": "Moloney",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.0"
     },
     {
         "first_name": "Ethan",
         "last_name": "Roots",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "4.0"
     },
     {
         "first_name": "Christ",
         "last_name": "Tshiunza",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "1.9"
     },
     {
         "first_name": "Ross",
         "last_name": "Vintcent",
         "position": "Back row",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.8"
     },
     {
         "first_name": "Charlie",
         "last_name": "Chapman",
         "position": "Scrum-half",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.0"
     },
     {
         "first_name": "Stephen",
         "last_name": "Varney",
         "position": "Scrum-half",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.4"
     },
     {
         "first_name": "Will",
         "last_name": "Haydon-Wood",
         "position": "Fly-half",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "3.0"
     },
     {
         "first_name": "Harvey",
         "last_name": "Skinner",
         "position": "Fly-half",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "4.0"
     },
     {
         "first_name": "Will",
         "last_name": "Rigg",
         "position": "Centre",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "2.0"
     },
     {
         "first_name": "Henry",
         "last_name": "Slade",
         "position": "Centre",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "6.7"
     },
     {
         "first_name": "Paul",
         "last_name": "Brown-Bampoe",
         "position": "Wing",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "6.6"
     },
     {
         "first_name": "Immanuel",
         "last_name": "Feyi-Waboso",
         "position": "Wing",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "10.7"
     },
     {
         "first_name": "Olly",
         "last_name": "Woodburn",
         "position": "Wing",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "4.1"
     },
     {
         "first_name": "Josh",
         "last_name": "Hodge",
         "position": "Fullback",
-        "team": "Exeter Chiefs"
+        "team": "Exeter Chiefs",
+        "price": "6.9"
     },
     {
         "first_name": "Jack",
         "last_name": "Innard",
         "position": "Hooker",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Jack",
         "last_name": "Singleton",
         "position": "Hooker",
-        "team": "Gloucester"
-    },
-    {
-        "first_name": "Jono",
-        "last_name": "Benz-Salomon",
-        "position": "Prop",
-        "team": "Gloucester"
-    },
-    {
-        "first_name": "Dian",
-        "last_name": "Bleuler",
-        "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "3.5"
     },
     {
         "first_name": "Afolabi",
         "last_name": "Fasogbon",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.1"
     },
     {
         "first_name": "Jamal",
         "last_name": "Ford-Robinson",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Kirill",
         "last_name": "Gotovtsev",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "1.0"
     },
     {
         "first_name": "Ciaran",
         "last_name": "Knight",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "1.0"
     },
     {
         "first_name": "Nepo",
         "last_name": "Laulala",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Archie",
         "last_name": "McArthur",
         "position": "Prop",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Matias",
         "last_name": "Alemanno",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Hugh",
         "last_name": "Bokenham",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Arthur",
         "last_name": "Clark",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "1.7"
     },
     {
         "first_name": "Danny",
         "last_name": "Eite",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Cameron",
         "last_name": "Jordan",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.1"
     },
     {
         "first_name": "Freddie",
         "last_name": "Thomas",
         "position": "Lock",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.3"
     },
     {
         "first_name": "Josh",
         "last_name": "Basham",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "3.0"
     },
     {
         "first_name": "Jack",
         "last_name": "Clement",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "5.0"
     },
     {
         "first_name": "Lewis",
         "last_name": "Ludlow",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.9"
     },
     {
         "first_name": "Jack",
         "last_name": "Mann",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "3.5"
     },
     {
         "first_name": "Harry",
         "last_name": "Taylor",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "3.0"
     },
     {
         "first_name": "Will",
         "last_name": "Trenholm",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "3.0"
     },
     {
         "first_name": "James",
         "last_name": "Venter",
         "position": "Back row",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.0"
     },
     {
         "first_name": "Mike",
         "last_name": "Austin",
         "position": "Scrum-half",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Caolan",
         "last_name": "Englefield",
         "position": "Scrum-half",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Tomos",
         "last_name": "Williams",
         "position": "Scrum-half",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.3"
     },
     {
         "first_name": "Charlie",
         "last_name": "Atkinson",
         "position": "Fly-half",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.1"
     },
     {
         "first_name": "Ross",
         "last_name": "Byrne",
         "position": "Fly-half",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "7.0"
     },
     {
         "first_name": "Will",
         "last_name": "Butler",
         "position": "Centre",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "2.0"
     },
     {
         "first_name": "Will",
         "last_name": "Joseph",
         "position": "Centre",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.7"
     },
     {
         "first_name": "Jacob",
         "last_name": "Morris",
         "position": "Wing",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Thorley",
         "position": "Wing",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "6.5"
     },
     {
         "first_name": "George",
         "last_name": "Barton",
         "position": "Fullback",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "4.0"
     },
     {
         "first_name": "Josh",
         "last_name": "Hathaway",
         "position": "Fullback",
-        "team": "Gloucester"
+        "team": "Gloucester",
+        "price": "6.0"
     },
     {
         "first_name": "Jack",
         "last_name": "Musk",
         "position": "Hooker",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "George",
         "last_name": "Turner",
         "position": "Hooker",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "3.5"
     },
     {
         "first_name": "Jack",
         "last_name": "Walker",
         "position": "Hooker",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "3.0"
     },
     {
         "first_name": "Pedro",
         "last_name": "Delgado",
         "position": "Prop",
-        "team": "Harlequins"
-    },
-    {
-        "first_name": "Cameron",
-        "last_name": "Doak",
-        "position": "Prop",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Titi",
         "last_name": "Lamositele",
         "position": "Prop",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Simon",
         "last_name": "Kerrod",
         "position": "Prop",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "1.0"
     },
     {
         "first_name": "Boris",
         "last_name": "Wenger",
         "position": "Prop",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Harry",
         "last_name": "Williams",
         "position": "Prop",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Stephan",
         "last_name": "Lewies",
         "position": "Lock",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Guido",
         "last_name": "Petti",
         "position": "Lock",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "3.1"
     },
     {
         "first_name": "Kieran",
         "last_name": "Treadwell",
         "position": "Lock",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "James",
         "last_name": "Chisholm",
         "position": "Back row",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.0"
     },
     {
         "first_name": "Chandler",
         "last_name": "Cunningham-South",
         "position": "Back row",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "7.2"
     },
     {
         "first_name": "Alex",
         "last_name": "Dombrandt",
         "position": "Back row",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "6.8"
     },
     {
         "first_name": "Will",
         "last_name": "Evans",
         "position": "Back row",
-        "team": "Harlequins"
-    },
-    {
-        "first_name": "Alex",
-        "last_name": "Everett",
-        "position": "Back row",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.7"
     },
     {
         "first_name": "Jack",
         "last_name": "Kenningham",
         "position": "Back row",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.3"
     },
     {
         "first_name": "Will",
         "last_name": "Porter",
         "position": "Scrum-half",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "3.6"
     },
     {
         "first_name": "Jarrod",
         "last_name": "Evans",
         "position": "Fly-half",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "5.5"
     },
     {
         "first_name": "Marcus",
         "last_name": "Smith",
         "position": "Fly-half",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "9.2"
     },
     {
         "first_name": "Oscar",
         "last_name": "Beard",
         "position": "Centre",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.9"
     },
     {
         "first_name": "Hayden",
         "last_name": "Hyde",
         "position": "Centre",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "2.0"
     },
     {
         "first_name": "Luke",
         "last_name": "Northmore",
         "position": "Centre",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.5"
     },
     {
         "first_name": "Nick",
         "last_name": "David",
         "position": "Wing",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "5.4"
     },
     {
         "first_name": "Tyrone",
         "last_name": "Green",
         "position": "Wing",
-        "team": "Harlequins"
-    },
-    {
-        "first_name": "Rodrigo",
-        "last_name": "Isgr\u00f3",
-        "position": "Wing",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "8.2"
     },
     {
         "first_name": "Cadan",
         "last_name": "Murley",
         "position": "Wing",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "8.0"
     },
     {
         "first_name": "Cameron",
         "last_name": "Anderson",
         "position": "Fullback",
-        "team": "Harlequins"
+        "team": "Harlequins",
+        "price": "4.0"
     },
     {
         "first_name": "Jamie",
         "last_name": "Blamire",
         "position": "Hooker",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.1"
     },
     {
         "first_name": "Charlie",
         "last_name": "Clare",
         "position": "Hooker",
-        "team": "Leicester Tigers"
-    },
-    {
-        "first_name": "John",
-        "last_name": "Stewart",
-        "position": "Hooker",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.1"
     },
     {
         "first_name": "Finn",
         "last_name": "Theobald-Thomas",
         "position": "Hooker",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.0"
     },
     {
         "first_name": "Archie",
         "last_name": "van der Flier",
         "position": "Prop",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "1.0"
     },
     {
         "first_name": "Tarek",
         "last_name": "Haffar",
         "position": "Prop",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "1.0"
     },
     {
         "first_name": "Will",
         "last_name": "Hurd",
         "position": "Prop",
-        "team": "Leicester Tigers"
-    },
-    {
-        "first_name": "Tonga",
-        "last_name": "Kofe",
-        "position": "Prop",
-        "team": "Leicester Tigers"
-    },
-    {
-        "first_name": "Cameron",
-        "last_name": "Miell",
-        "position": "Prop",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "1.0"
     },
     {
         "first_name": "Nicky",
         "last_name": "Smith",
         "position": "Prop",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.6"
     },
     {
         "first_name": "Lewis",
         "last_name": "Chessum",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Chessum",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "5.1"
     },
     {
         "first_name": "Cameron",
         "last_name": "Henderson",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "1.8"
     },
     {
         "first_name": "George",
         "last_name": "Martin",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.5"
     },
     {
         "first_name": "Harry",
         "last_name": "Wells",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.0"
     },
     {
         "first_name": "James",
         "last_name": "Thompson",
         "position": "Lock",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.0"
     },
     {
         "first_name": "Finn",
         "last_name": "Carnduff",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.0"
     },
     {
         "first_name": "Olly",
         "last_name": "Cracknell",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "5.4"
     },
     {
         "first_name": "Emeka",
         "last_name": "Ilione",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.4"
     },
     {
         "first_name": "Hanro",
         "last_name": "Liebenberg",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "5.5"
     },
     {
         "first_name": "Josh",
         "last_name": "Manz",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.0"
     },
     {
         "first_name": "Joaquin",
         "last_name": "Moro",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.0"
     },
     {
         "first_name": "Tommy",
         "last_name": "Reffell",
         "position": "Back row",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.1"
     },
     {
         "first_name": "Ollie",
         "last_name": "Allan",
         "position": "Scrum-half",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.0"
     },
     {
         "first_name": "Jack",
         "last_name": "van Poortvliet",
         "position": "Scrum-half",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.2"
     },
     {
         "first_name": "Orlando",
         "last_name": "Bailey",
         "position": "Fly-half",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.1"
     },
     {
         "first_name": "Billy",
         "last_name": "Searle",
         "position": "Fly-half",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.2"
     },
     {
         "first_name": "Charlie",
         "last_name": "Titcombe",
         "position": "Fly-half",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "3.0"
     },
     {
         "first_name": "Solomone",
         "last_name": "Kata",
         "position": "Centre",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "5.1"
     },
     {
         "first_name": "Izaia",
         "last_name": "Perese",
         "position": "Centre",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.0"
     },
     {
         "first_name": "Will",
         "last_name": "Wand",
         "position": "Centre",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.2"
     },
     {
         "first_name": "Joseph",
         "last_name": "Woodward",
         "position": "Centre",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "2.8"
     },
     {
         "first_name": "Gabriel",
         "last_name": "Hamer-Webb",
         "position": "Wing",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "4.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Hassell-Collins",
         "position": "Wing",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "7.1"
     },
     {
         "first_name": "Adam",
         "last_name": "Radwan",
         "position": "Wing",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "7.7"
     },
     {
         "first_name": "James",
         "last_name": "O'Connor",
         "position": "Fullback",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "6.0"
     },
     {
         "first_name": "Freddie",
         "last_name": "Steward",
         "position": "Fullback",
-        "team": "Leicester Tigers"
+        "team": "Leicester Tigers",
+        "price": "8.0"
     },
     {
         "first_name": "Hame",
         "last_name": "Faiva",
         "position": "Hooker",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Fletcher",
         "position": "Hooker",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "George",
         "last_name": "McGuigan",
         "position": "Hooker",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.4"
     },
     {
         "first_name": "Eduardo",
         "last_name": "Bello",
         "position": "Prop",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "1.0"
     },
     {
         "first_name": "Adam",
         "last_name": "Brocklebank",
         "position": "Prop",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "1.0"
     },
     {
         "first_name": "Luan",
         "last_name": "de Bruin",
         "position": "Prop",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "1.0"
     },
     {
         "first_name": "Murray",
         "last_name": "McCallum",
         "position": "Prop",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "1.0"
     },
     {
         "first_name": "Richard",
         "last_name": "Palframan",
         "position": "Prop",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "1.0"
     },
     {
         "first_name": "Sebastian",
         "last_name": "de Chaves",
         "position": "Lock",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Freddie",
         "last_name": "Clarke",
         "position": "Lock",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "John",
         "last_name": "Hawkins",
         "position": "Lock",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Jamie",
         "last_name": "Hodgson",
         "position": "Lock",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Adam",
-        "last_name": "Scott",
-        "position": "Lock",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Ollie",
         "last_name": "Leatherbarrow",
         "position": "Back row",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "3.0"
     },
     {
         "first_name": "Fergus",
         "last_name": "Lee-Warner",
         "position": "Back row",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Freddie",
         "last_name": "Lockwood",
         "position": "Back row",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Amanaki",
-        "last_name": "Mafi",
-        "position": "Back row",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "3.0"
     },
     {
         "first_name": "Cameron",
         "last_name": "Neild",
         "position": "Back row",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Sim\u00f3n",
-        "last_name": "Ben\u00edtez Cruz",
-        "position": "Scrum-half",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.9"
     },
     {
         "first_name": "James",
         "last_name": "Elliott",
         "position": "Scrum-half",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "2.0"
     },
     {
         "first_name": "Boeta",
         "last_name": "Chamberlain",
         "position": "Fly-half",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "3.2"
     },
     {
         "first_name": "Brett",
         "last_name": "Connon",
         "position": "Fly-half",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Sammy",
-        "last_name": "Arnold",
-        "position": "Centre",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "4.0"
     },
     {
         "first_name": "Connor",
         "last_name": "Doherty",
         "position": "Centre",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "3.0"
     },
     {
         "first_name": "Ethan",
         "last_name": "Grayson",
         "position": "Centre",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "4.0"
     },
     {
         "first_name": "Alex",
         "last_name": "Hearle",
         "position": "Wing",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Joel",
-        "last_name": "Grayson",
-        "position": "Wing",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "4.1"
     },
     {
         "first_name": "Elliott",
         "last_name": "Obatoyinbo",
         "position": "Wing",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Harrison",
-        "last_name": "Obatoyinbo",
-        "position": "Wing",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "4.0"
     },
     {
         "first_name": "Christian",
         "last_name": "Wade",
         "position": "Wing",
-        "team": "Newcastle Red Bulls"
-    },
-    {
-        "first_name": "Stefan",
-        "last_name": "Coetzee",
-        "position": "Fullback",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "6.0"
     },
     {
         "first_name": "Liam",
         "last_name": "Williams",
         "position": "Fullback",
-        "team": "Newcastle Red Bulls"
+        "team": "Newcastle Red Bulls",
+        "price": "5.5"
     },
     {
         "first_name": "Ethan",
         "last_name": "Caine",
         "position": "Hooker",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.0"
     },
     {
         "first_name": "Luke",
         "last_name": "Cowan-Dickie",
         "position": "Hooker",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "4.6"
     },
     {
         "first_name": "Nathan",
         "last_name": "Jibulu",
         "position": "Hooker",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.4"
     },
     {
         "first_name": "Tadgh",
         "last_name": "McElroy",
         "position": "Hooker",
-        "team": "Sale Sharks"
-    },
-    {
-        "first_name": "Patreece",
-        "last_name": "Bell",
-        "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.0"
     },
     {
         "first_name": "James",
         "last_name": "Harper",
         "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "1.0"
     },
     {
         "first_name": "WillGriff",
         "last_name": "John",
         "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "1.0"
     },
     {
         "first_name": "Simon",
         "last_name": "McIntyre",
         "position": "Prop",
-        "team": "Sale Sharks"
-    },
-    {
-        "first_name": "Tumy",
-        "last_name": "Onasaya",
-        "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "1.0"
     },
     {
         "first_name": "Asher",
         "last_name": "Opoku-Fordjour",
         "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "3.3"
     },
     {
         "first_name": "Bevan",
         "last_name": "Rodd",
         "position": "Prop",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "3.0"
     },
     {
         "first_name": "Hyron",
         "last_name": "Andrews",
         "position": "Lock",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.3"
     },
     {
         "first_name": "Roubs",
         "last_name": "Birch",
         "position": "Lock",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.0"
     },
     {
         "first_name": "Ernst",
         "last_name": "van Rhyn",
         "position": "Lock",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "4.0"
     },
     {
         "first_name": "Jacques",
         "last_name": "Vermeulen",
         "position": "Back row",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "4.7"
     },
     {
         "first_name": "Raffi",
         "last_name": "Quirke",
         "position": "Scrum-half",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "3.5"
     },
     {
         "first_name": "Will",
         "last_name": "Wootton",
         "position": "Scrum-half",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.0"
     },
     {
         "first_name": "George",
         "last_name": "Ford",
         "position": "Fly-half",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "9.0"
     },
     {
         "first_name": "Robert",
         "last_name": "du Preez",
         "position": "Fly-half",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "6.0"
     },
     {
         "first_name": "Marius",
         "last_name": "Louw",
         "position": "Centre",
-        "team": "Sale Sharks"
-    },
-    {
-        "first_name": "Rekeiti",
-        "last_name": "Ma'asi-White",
-        "position": "Centre",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "3.1"
     },
     {
         "first_name": "Arron",
         "last_name": "Reed",
         "position": "Wing",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "7.0"
     },
     {
         "first_name": "Alex",
         "last_name": "Wills",
         "position": "Wing",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "4.0"
     },
     {
         "first_name": "Luke",
         "last_name": "James",
         "position": "Fullback",
-        "team": "Sale Sharks"
+        "team": "Sale Sharks",
+        "price": "2.0"
     },
     {
         "first_name": "Eoghan",
         "last_name": "Clarke",
         "position": "Hooker",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Jamie",
         "last_name": "George",
         "position": "Hooker",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "4.5"
     },
     {
         "first_name": "James",
         "last_name": "Hadfield",
         "position": "Hooker",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Harvey",
         "last_name": "Beaton",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Phil",
         "last_name": "Brantingham",
         "position": "Prop",
-        "team": "Saracens"
-    },
-    {
-        "first_name": "Rhys",
-        "last_name": "Carr\u00e9",
-        "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Alec",
         "last_name": "Clarey",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Eroni",
         "last_name": "Mawi",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Vilikesa",
         "last_name": "Nairau",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Marco",
         "last_name": "Riccioni",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.3"
     },
     {
         "first_name": "Marcus",
         "last_name": "Street",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Tietie",
         "last_name": "Tuimauga",
         "position": "Prop",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "1.0"
     },
     {
         "first_name": "Nick",
         "last_name": "Isiekwe",
         "position": "Lock",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.3"
     },
     {
         "first_name": "Maro",
         "last_name": "Itoje",
         "position": "Lock",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "5.1"
     },
     {
         "first_name": "Theo",
         "last_name": "McFarland",
         "position": "Lock",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.9"
     },
     {
         "first_name": "Olamide",
         "last_name": "Sodeke",
         "position": "Lock",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Hugh",
         "last_name": "Tizard",
         "position": "Lock",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.5"
     },
     {
         "first_name": "Harry",
         "last_name": "Wilson",
         "position": "Lock",
-        "team": "Saracens"
-    },
-    {
-        "first_name": "Juan",
-        "last_name": "Mart\u00edn Gonz\u00e1lez",
-        "position": "Back row",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.2"
     },
     {
         "first_name": "Toby",
         "last_name": "Knight",
         "position": "Back row",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.0"
     },
     {
         "first_name": "Nathan",
         "last_name": "Michelow",
         "position": "Back row",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.0"
     },
     {
         "first_name": "Andy",
         "last_name": "Onyeama-Christie",
         "position": "Back row",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "5.2"
     },
     {
         "first_name": "Charlie",
         "last_name": "Bracken",
         "position": "Scrum-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Gareth",
         "last_name": "Simpson",
         "position": "Scrum-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Ivan",
         "last_name": "van Zyl",
         "position": "Scrum-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.5"
     },
     {
         "first_name": "Fergus",
         "last_name": "Burke",
         "position": "Fly-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "7.5"
     },
     {
         "first_name": "Owen",
         "last_name": "Farrell",
         "position": "Fly-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "8.3"
     },
     {
         "first_name": "Louie",
         "last_name": "Johnson",
         "position": "Fly-half",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.0"
     },
     {
         "first_name": "Olly",
         "last_name": "Hartley",
         "position": "Centre",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.5"
     },
     {
         "first_name": "Cammy",
         "last_name": "Hutchison",
         "position": "Centre",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Alex",
         "last_name": "Lozowski",
         "position": "Centre",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "4.0"
     },
     {
         "first_name": "Nick",
         "last_name": "Tompkins",
         "position": "Centre",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "5.1"
     },
     {
         "first_name": "Lucio",
         "last_name": "Cinti",
         "position": "Wing",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "3.3"
     },
     {
         "first_name": "Tobias",
         "last_name": "Elliott",
         "position": "Wing",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "5.5"
     },
     {
         "first_name": "Angus",
         "last_name": "Hall",
         "position": "Wing",
-        "team": "Saracens"
-    },
-    {
-        "first_name": "Brandon",
-        "last_name": "Jackson",
-        "position": "Wing",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "2.0"
     },
     {
         "first_name": "Rotimi",
         "last_name": "Segun",
         "position": "Wing",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "5.7"
     },
     {
         "first_name": "Elliot",
         "last_name": "Daly",
         "position": "Fullback",
-        "team": "Saracens"
+        "team": "Saracens",
+        "price": "6.6"
     }
 ]

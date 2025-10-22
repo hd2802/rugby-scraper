@@ -34,6 +34,9 @@ urc_urls = [
     "https://en.wikipedia.org/wiki/Zebre_Parma"
 ]
 
+def test():
+    full_table.get_data("https://en.wikipedia.org/wiki/Cardiff_Rugby")
+
 def prem_data():
     data = []
 
@@ -55,6 +58,8 @@ def urc_data():
 def main():
     prem_data()
     urc_data()
+    #test()
+
 
 if __name__ == "__main__":
     main()

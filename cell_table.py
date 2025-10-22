@@ -2,6 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+def get_player_price(first_name, last_name):
+    with open("player_data.txt") as file:
+        string = file.read()
+        lines = string.splitlines()
+        name = last_name + ", " + first_name[0]
+        try:
+            return ((lines[lines.index(name)+1].split("£"))[1].split('m')[0])
+        except:
+            return 0
+
 def get_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     response = requests.get(url, headers=headers)
@@ -50,7 +60,13 @@ def get_data(url):
                                 continue
                             obj["position"] = str(cols[1].find('a').text.strip())
                             obj['team'] = team.strip()
-                            player_data.append(obj)
+                            price = get_player_price(first_name, last_name)
+                            if price == 0:
+                                continue
+                            else:
+                                obj['price'] = price
+                                #print(obj)
+                                player_data.append(obj)
                             
 
         else:
