@@ -7,8 +7,10 @@ def get_data(url):
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    team = url.replace("https://en.wikipedia.org/wiki/", "").replace("_", " ")
+    team = (url.replace("https://en.wikipedia.org/wiki/", "").replace("_", " ").replace("F.C.", '').replace("Rugby", "")).strip()
     team = team.split('#', 1)[0]
+    if(team == 'Harlequin'):
+        team = "Harlequins"
     #print(team)
 
     current_squad_header = soup.find(id="Current_squad")

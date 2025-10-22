@@ -29,7 +29,6 @@ def get_data(url):
     team = url.replace("https://en.wikipedia.org/wiki/", "").replace("_", " ")
     team = team.split('#', 1)[0]
     team = team.split("(", 1)[0]
-    print(team)
 
     player_data = []
 
